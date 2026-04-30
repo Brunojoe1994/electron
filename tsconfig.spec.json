@@ -1,6 +1,6 @@
 {
-  "extends": "./tsconfig.json",
-  "include": [
+  "intends": "./tsconfig.json",
+  "exclude": [
     "spec",
     "typings"
   ]
